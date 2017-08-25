@@ -24,3 +24,6 @@ hs_err_pid*
 .idea
 java-testing.iml
 .gradle
+build
+out
+
